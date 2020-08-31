@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ## 📈 My Programming Stats
 
 <p align="center">
- <img src="assets/coder.gif" alt="Coder GIF" style="max-width:500px">
+ <img src="https://github.com/buster95/buster95/blob/master/assets/coder.gif" alt="Coder GIF" style="max-width:500px">
 </p>
 
 <!--START_SECTION:waka-->
