@@ -22,20 +22,20 @@ Here are some ideas to get you started:
 
 ## 🔖 Featured Projects
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/buster95/facial-expression-detection">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=golamsaroar&repo=facial-expression-detection&theme=graywhite" />
   </a>
   <a href="https://github.com/golamSaroar/python-interactive-dashboard">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=golamsaroar&repo=python-interactive-dashboard&theme=graywhite" />
   </a>
-</p>
+</p> -->
 
 
 ## 📫 How to Reach Me
 
 <p align="center">
- <a href="http://golamsaroar.com/">
+ <!-- <a href="http://golamsaroar.com/">
   <img src="https://img.shields.io/badge/golamsaroar.com-%23206A5D.svg?&style=for-the-badge&logo=jquery&logoColor=white" />
  </a>
  <a href="https://www.linkedin.com/in/iamsaroar/">
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
  </a>
  <a href="mailto:walter.r.corrales@gmail.com">
   <img src="https://img.shields.io/badge/email-%23C14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
- </a>
+ </a> -->
 </p>
 
 ## 📈 My Programming Stats
