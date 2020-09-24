@@ -20,18 +20,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buster95&hide=html,css&theme=graywhite&hide_border=true">
 </p>
 
-## 🔖 Featured Projects
-
-<!-- <p align="center">
-  <a href="https://github.com/buster95/facial-expression-detection">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=golamsaroar&repo=facial-expression-detection&theme=graywhite" />
-  </a>
-  <a href="https://github.com/golamSaroar/python-interactive-dashboard">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=golamsaroar&repo=python-interactive-dashboard&theme=graywhite" />
-  </a>
-</p> -->
-
-
 ## 📫 How to Reach Me
 
 <p align="center">
