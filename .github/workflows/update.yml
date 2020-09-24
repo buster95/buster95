@@ -7,7 +7,7 @@ on:
     - cron: "* */12 * * *"
 
 jobs:
-  update-readme:
+  wakatime:
     name: Update Code Stats
     runs-on: ubuntu-latest
     steps:
