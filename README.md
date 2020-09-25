@@ -69,5 +69,55 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    200 commits    ██████░░░░░░░░░░░░░░░░░░░   25.25% 
+🌆 Daytime    282 commits    █████████░░░░░░░░░░░░░░░░   35.61% 
+🌃 Evening    223 commits    ███████░░░░░░░░░░░░░░░░░░   28.16% 
+🌙 Night      87 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.98%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.76% 
+Tuesday      113 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.27% 
+Wednesday    135 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.05% 
+Thursday     128 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.16% 
+Friday       104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
+Saturday     104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
+Sunday       99 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Docker                   1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   24.53% 
+YAML                     58 mins             █████░░░░░░░░░░░░░░░░░░░░   20.04% 
+JavaScript               52 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.2% 
+Other                    48 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.61% 
+Git Config               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.19%
+
+🔥 Editors: 
+VS Code                  4 hrs 50 mins       █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.89% 
+HTML                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.89% 
+C#                       6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.77% 
+TypeScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.77% 
+Dart                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.77%
+
+```
+
+
 
 <!--END_SECTION:waka-->
