@@ -72,22 +72,22 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    316 commits    ██████░░░░░░░░░░░░░░░░░░░   25.12% 
-🌆 Daytime    434 commits    ████████░░░░░░░░░░░░░░░░░   34.5% 
-🌃 Evening    406 commits    ████████░░░░░░░░░░░░░░░░░   32.27% 
-🌙 Night      102 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.11%
+🌞 Morning    316 commits    ██████░░░░░░░░░░░░░░░░░░░   25.08% 
+🌆 Daytime    434 commits    ████████░░░░░░░░░░░░░░░░░   34.44% 
+🌃 Evening    408 commits    ████████░░░░░░░░░░░░░░░░░   32.38% 
+🌙 Night      102 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.1%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       219 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.41% 
-Tuesday      211 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.77% 
-Wednesday    205 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.3% 
-Thursday     218 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.33% 
-Friday       160 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.72% 
-Saturday     106 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.43% 
-Sunday       139 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.05%
+Monday       221 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.54% 
+Tuesday      211 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.75% 
+Wednesday    205 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.27% 
+Thursday     218 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.3% 
+Friday       160 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.7% 
+Saturday     106 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.41% 
+Sunday       139 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.03%
 
 ```
 
