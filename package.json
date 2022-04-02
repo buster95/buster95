@@ -1,7 +1,7 @@
 {
   "name": "buster95",
   "description": "Personal card for buster95",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./card/index.js",
   "bin": {
     "buster95": "./card/index.js"
