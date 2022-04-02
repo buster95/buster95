@@ -1,0 +1,22 @@
+name: Update WakaTime
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+
+jobs:
+  wakatime:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKA_TIME_API_KEY }}
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_OS: "False"
+          SHOW_TIMEZONE: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_EDITORS: "True"
+          SHOW_SHORT_INFO: "False"
+          SHOW_LOC_CHART: "False"
