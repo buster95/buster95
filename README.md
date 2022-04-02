@@ -6,10 +6,6 @@
   </samp>
 </h2>
 
-<p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buster95&count_private=true&show_icons=true&theme=tokyonight&line_height=30&hide_border=true">
-</p>
-
 ## 📫 How to reach me
 
 <p align="center">
@@ -64,6 +60,10 @@
 
 <p align="center">
  <img src="https://github.com/buster95/buster95/blob/master/assets/coder.gif" alt="Coder GIF" style="max-width:500px">
+</p>
+
+<p align = "center">
+  <img src="https://github-readme-stats.vercel.app/api?username=buster95&count_private=true&show_icons=true&theme=tokyonight&line_height=30&hide_border=true">
 </p>
 
 <!--START_SECTION:waka-->
