@@ -1,12 +1,12 @@
-<h2 align="center">
+<h3 align="center">
   <samp>
-  Hi folks <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, welcome to my github
+  Hi folks <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="25">, welcome to my github
   <br/>
   I'm a passionate developer, command line junkie 🧬 and I love to create awesome things. I enjoy working with nodejs, dotnet and docker 🐳. My favorites languages are Typescript, Javascript, C# and Dart
   </samp>
-</h2>
+</h3>
 
-## 📫 How to reach me
+### 📫 How to reach me
 
 <p align="center">
  <a href="https://buster95.github.io">
@@ -56,7 +56,7 @@
   </a>
 </p>
 
-## 📈 My Programming Stats
+### 📈 My Programming Stats
 
 <p align="center">
  <img src="https://github.com/buster95/buster95/blob/master/assets/coder.gif" alt="Coder GIF" style="max-width:500px">
