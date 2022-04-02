@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import boxen from 'boxen';
 import chalk from 'chalk';
 import inquirer from 'inquirer';
