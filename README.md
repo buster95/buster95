@@ -67,6 +67,8 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -118,5 +120,5 @@ Dart                     7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/05/2022 06:21:26 UTC
+ Last Updated on 08/05/2022 06:19:17 UTC
 <!--END_SECTION:waka-->
